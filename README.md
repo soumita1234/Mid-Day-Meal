@@ -1,2 +1,2 @@
 # Mid-Day-Meal
-Food delivery demo website using html ans css
+Food delivery demo website using html ans css.
